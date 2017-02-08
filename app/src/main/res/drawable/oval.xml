@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <ripple android:color="@color/colorAccent">
+             <item>
+                <shape android:color="?android:colorControlHighlight" android:shape="oval">
+                <solid android:color="#e9e9e9"/>
+            </shape>
+            </item>
+        </ripple>
+    </item>
+
+    <item
+        android:drawable="@drawable/timer"
+    />
+</layer-list>

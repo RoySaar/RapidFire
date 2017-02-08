@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="multiply_min">2</integer>
+    <integer name="mulyiply_max">10</integer>
+    <integer name="divide_min">2</integer>
+    <integer name="divide_max">10</integer>
+    <integer name="plus_min">2</integer>
+    <integer name="plus_max">40</integer>
+    <integer name="minus_min">2</integer>
+    <integer name="minus_max">40</integer>
+</resources>
